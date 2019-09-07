@@ -1,0 +1,14 @@
+{
+  "name": "csgopredictapp",
+  "version": "1.0.0",
+  "description": "CSGO Major Prediction Game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kyle Stadelmann",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.10"
+  }
+}
